@@ -1,6 +1,10 @@
 import string
 import sys
 
+"""
+Code to transform a String into hexcode to encrypt basic stuff
+"""
+
 letras = string.ascii_lowercase
 letras += string.digits
 letras += string.punctuation
